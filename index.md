@@ -1,9 +1,6 @@
 ---
-title: Data Analytics Program
+layout : home
 ---
-
-# Data Analytics Program
-
 Welcome to the program. Access your material here.
 
 ## Weekly Content
