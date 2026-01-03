@@ -1,2 +1,5 @@
 theme: minima
 title: Data Analytics Program
+
+header_pages:
+-index.md
