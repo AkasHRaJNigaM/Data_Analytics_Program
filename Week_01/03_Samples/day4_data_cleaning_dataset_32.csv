@@ -1,0 +1,33 @@
+Employee_ID,Employee_Name,Department,Salary,Joining_Date,Performance_Rating
+101,Rohit,Finance,,2019-07-15,Medium
+111,Amit ,Finance,60000,2018-05-10,Medium
+118,Anjali,Finance,52000,2019-07-15,Low
+123,Priya,Finance,60000,2019-07-15,Low
+110,Sonal,IT,48000,2020-01-20,Medium
+103,Anjali,IT,52000,2019-07-15,Low
+107,Priya,Sales,48000,2019-07-15,High
+116,Sonal,Finance,,2020-01-20,Medium
+116,Rohit,Sales,,2019-07-15,Low
+120,Anjali,Finance,52000,2019-07-15,Medium
+117,Sonal,Finance,52000,2019-07-15,High
+102,Amit ,IT,65000,2018-05-10,Medium
+101,Rohit,IT,60000,2018-05-10,Medium
+116,Amit ,HR,65000,2018-05-10,Medium
+112,Karan,IT,60000,2020-01-20,Medium
+105, Neha,HR,65000,2022-06-05,High
+105,Anjali,HR,48000,2019-07-15,Medium
+123,Sonal,HR,52000,2019-07-15,Medium
+109, Neha,HR,,2020-01-20,Low
+109, Neha,HR,60000,2019-07-15,Medium
+103,Sonal,Sales,60000,2018-05-10,Low
+119,Rohit,IT,,2022-06-05,High
+116,Anjali,HR,65000,2021-03-01,High
+116,Karan,Finance,60000,2019-07-15,High
+103,Amit ,IT,48000,2018-05-10,High
+120,Priya,IT,52000,2021-03-01,Low
+124,Amit ,HR,,2022-06-05,Medium
+122,Priya,Sales,52000,2021-03-01,High
+124,Amit ,HR,60000,2018-05-10,Medium
+101,Sonal,Sales,60000,2021-03-01,Low
+124,Karan,Finance,,2020-01-20,Low
+120,Anjali,IT,48000,2021-03-01,Low
