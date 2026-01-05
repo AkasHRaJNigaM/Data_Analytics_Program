@@ -1,0 +1,121 @@
+Invoice_ID,Invoice_Date,Sales_Executive,Region,Product,Units_Sold,Unit_Price,Discount_Percent,Returned
+9001,2024-02-01,Neha,South,Tablet,14,20000,5,No
+9002,2024-02-02,Amit,South,Tablet,12,40000,10,No
+9003,2024-02-03,Karan,South,Laptop,10,25000,15,No
+9004,2024-02-04,Amit,West,TV,11,25000,5,No
+9005,2024-02-05,Amit,South,Mobile,2,40000,10,No
+9006,2024-02-06,Amit,North,Mobile,2,25000,0,No
+9007,2024-02-07,Pooja,West,Tablet,12,20000,10,No
+9008,2024-02-08,Karan,East,Washing Machine,13,40000,15,No
+9009,2024-02-09,Rohit,East,Laptop,10,20000,15,No
+9010,2024-02-10,Neha,East,Mobile,13,30000,0,No
+9011,2024-02-11,Rohit,North,Mobile,10,15000,15,No
+9012,2024-02-12,Amit,North,Tablet,6,15000,5,No
+9013,2024-02-13,Karan,South,Mobile,7,30000,0,No
+9014,2024-02-14,Sonal,South,TV,11,30000,5,Yes
+9015,2024-02-15,Sonal,South,TV,14,15000,5,No
+9016,2024-02-16,Neha,North,TV,1,25000,5,No
+9017,2024-02-17,Sonal,North,Washing Machine,11,30000,15,No
+9018,2024-02-18,Rohit,West,TV,8,25000,0,No
+9019,2024-02-19,Amit,South,Mobile,2,20000,10,No
+9020,2024-02-20,Karan,South,Mobile,1,15000,0,No
+9021,2024-02-21,Karan,South,Laptop,10,15000,5,No
+9022,2024-02-22,Pooja,North,Tablet,13,25000,0,No
+9023,2024-02-23,Karan,West,TV,7,20000,5,No
+9024,2024-02-24,Karan,East,TV,9,20000,10,No
+9025,2024-02-25,Amit,South,Mobile,5,25000,0,No
+9026,2024-02-26,Neha,North,Mobile,11,25000,15,No
+9027,2024-02-27,Sonal,North,Laptop,13,40000,10,No
+9028,2024-02-28,Sonal,North,Tablet,10,15000,0,Yes
+9029,2024-02-29,Rohit,East,Tablet,14,40000,0,No
+9030,2024-03-01,Rohit,South,Mobile,11,20000,15,No
+9031,2024-03-02,Amit,North,Laptop,12,20000,5,No
+9032,2024-03-03,Karan,North,TV,9,25000,0,No
+9033,2024-03-04,Rohit,East,TV,12,25000,15,No
+9034,2024-03-05,Amit,East,Laptop,14,20000,0,No
+9035,2024-03-06,Sonal,South,Mobile,6,30000,10,No
+9036,2024-03-07,Sonal,East,Tablet,12,20000,5,No
+9037,2024-03-08,Amit,South,TV,7,40000,15,No
+9038,2024-03-09,Rohit,North,Mobile,4,15000,15,No
+9039,2024-03-10,Pooja,East,Laptop,8,40000,5,No
+9040,2024-03-11,Amit,East,Tablet,8,30000,0,Yes
+9041,2024-03-12,Amit,North,Washing Machine,10,15000,10,No
+9042,2024-03-13,Pooja,South,Washing Machine,3,40000,0,No
+9043,2024-03-14,Neha,South,TV,8,20000,5,No
+9044,2024-03-15,Karan,North,Tablet,11,40000,10,No
+9045,2024-03-16,Amit,West,Laptop,5,20000,5,No
+9046,2024-03-17,Rohit,South,Laptop,9,40000,10,No
+9047,2024-03-18,Karan,West,Laptop,14,15000,10,Yes
+9048,2024-03-19,Rohit,North,Mobile,3,40000,15,No
+9049,2024-03-20,Karan,North,Washing Machine,6,20000,15,No
+9050,2024-03-21,Neha,South,Washing Machine,8,20000,10,No
+9051,2024-03-22,Amit,West,Washing Machine,3,20000,15,No
+9052,2024-03-23,Sonal,East,TV,9,20000,10,No
+9053,2024-03-24,Amit,North,Mobile,4,40000,10,No
+9054,2024-03-25,Sonal,East,Washing Machine,1,20000,0,No
+9055,2024-03-26,Sonal,South,Mobile,6,25000,0,No
+9056,2024-03-27,Pooja,West,Mobile,4,15000,10,No
+9057,2024-03-28,Neha,West,Washing Machine,8,25000,0,No
+9058,2024-03-29,Pooja,West,Mobile,6,30000,5,No
+9059,2024-03-30,Karan,East,Mobile,11,25000,0,No
+9060,2024-03-31,Karan,South,TV,13,15000,15,No
+9061,2024-04-01,Karan,North,Mobile,11,30000,15,No
+9062,2024-04-02,Neha,North,Mobile,11,30000,15,No
+9063,2024-04-03,Amit,West,Washing Machine,13,20000,15,No
+9064,2024-04-04,Rohit,East,Washing Machine,1,30000,0,No
+9065,2024-04-05,Rohit,East,Tablet,1,40000,5,No
+9066,2024-04-06,Rohit,East,Washing Machine,6,20000,15,No
+9067,2024-04-07,Amit,West,Mobile,1,15000,0,No
+9068,2024-04-08,Amit,North,Mobile,2,40000,0,Yes
+9069,2024-04-09,Neha,West,Tablet,5,40000,5,No
+9070,2024-04-10,Sonal,South,Mobile,5,30000,15,No
+9071,2024-04-11,Rohit,East,Washing Machine,3,20000,5,Yes
+9072,2024-04-12,Neha,East,Tablet,2,40000,5,No
+9073,2024-04-13,Neha,East,Tablet,12,30000,10,No
+9074,2024-04-14,Amit,East,TV,7,30000,5,No
+9075,2024-04-15,Rohit,East,Washing Machine,4,40000,10,No
+9076,2024-04-16,Rohit,West,Laptop,1,30000,0,Yes
+9077,2024-04-17,Amit,East,Mobile,1,30000,15,No
+9078,2024-04-18,Neha,North,Laptop,8,40000,10,No
+9079,2024-04-19,Pooja,South,TV,9,40000,5,No
+9080,2024-04-20,Amit,North,Mobile,7,25000,10,Yes
+9081,2024-04-21,Neha,South,Tablet,5,40000,5,Yes
+9082,2024-04-22,Karan,South,Washing Machine,12,20000,15,No
+9083,2024-04-23,Sonal,East,TV,6,30000,0,No
+9084,2024-04-24,Pooja,East,TV,6,40000,15,No
+9085,2024-04-25,Rohit,East,Tablet,4,30000,10,No
+9086,2024-04-26,Sonal,East,TV,6,20000,0,No
+9087,2024-04-27,Amit,South,TV,1,15000,5,No
+9088,2024-04-28,Karan,North,Washing Machine,7,20000,10,No
+9089,2024-04-29,Rohit,West,Tablet,14,30000,0,No
+9090,2024-04-30,Rohit,East,Laptop,11,25000,0,Yes
+9091,2024-05-01,Amit,South,Laptop,11,20000,0,No
+9092,2024-05-02,Neha,West,Laptop,6,30000,10,No
+9093,2024-05-03,Pooja,West,Tablet,10,20000,5,No
+9094,2024-05-04,Neha,West,Laptop,5,30000,5,No
+9095,2024-05-05,Amit,East,Mobile,3,20000,0,No
+9096,2024-05-06,Pooja,West,Mobile,4,20000,5,Yes
+9097,2024-05-07,Neha,West,Laptop,12,40000,5,No
+9098,2024-05-08,Pooja,North,Mobile,2,20000,0,No
+9099,2024-05-09,Neha,East,Tablet,10,25000,15,No
+9100,2024-05-10,Pooja,South,Washing Machine,10,25000,0,No
+9101,2024-05-11,Neha,North,Washing Machine,14,30000,0,No
+9102,2024-05-12,Amit,West,Tablet,6,40000,0,No
+9103,2024-05-13,Rohit,South,TV,11,30000,10,No
+9104,2024-05-14,Rohit,East,Mobile,10,20000,0,No
+9105,2024-05-15,Sonal,South,Washing Machine,3,20000,15,No
+9106,2024-05-16,Neha,North,Tablet,5,15000,10,Yes
+9107,2024-05-17,Neha,South,Tablet,4,30000,15,No
+9108,2024-05-18,Pooja,South,TV,9,15000,10,No
+9109,2024-05-19,Neha,West,Laptop,12,25000,0,No
+9110,2024-05-20,Neha,East,Washing Machine,4,15000,10,No
+9111,2024-05-21,Neha,West,Washing Machine,9,30000,10,No
+9112,2024-05-22,Neha,East,Laptop,9,20000,10,No
+9113,2024-05-23,Neha,West,Mobile,12,25000,0,No
+9114,2024-05-24,Pooja,North,Laptop,1,20000,0,No
+9115,2024-05-25,Pooja,West,Tablet,6,30000,15,Yes
+9116,2024-05-26,Sonal,West,Washing Machine,6,30000,10,No
+9117,2024-05-27,Sonal,North,Laptop,13,20000,5,No
+9118,2024-05-28,Sonal,South,Tablet,11,25000,5,No
+9119,2024-05-29,Karan,West,TV,3,25000,5,No
+9120,2024-05-30,Sonal,East,Laptop,10,40000,15,No
